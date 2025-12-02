@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Baraa
+## 👋 Hello, I'm Baraa
 
-💻 JavaScript Full-Stack Engineer<br>
+💻 JavaScript Full-Stack Engineer / Freelancer<br>
 👨‍💻 Lifelong Learner<br>
 ⚡ "_Code. Build. Learn. Repeat_"<br>
 
