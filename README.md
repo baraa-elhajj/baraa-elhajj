@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Baraa
 
-💻 Full-Stack Dev. 
-⚡ Code. Build. Learn. Repeat. 
-👨‍💻 Lifelong Learner.
+💻 JavaScript Full-Stack Engineer<br>
+👨‍💻 Lifelong Learner<br>
+⚡ "_Code. Build. Learn. Repeat_"<br>
 
 ## Tech
 
@@ -43,17 +43,10 @@ Coming soon.. Stay tuned!
 
 ## Reach Out
 
-<p>
-  <a href="https://github.com/baraa-elhajj" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=ffffff" width="27" style="border-radius:100%"/>
-  </a>
-  <a href="https://linkedin.com/in/baraa-elhajj" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=qNUNvR9aEWql&format=png&color=000000" width="27" style="border-radius:100%"/>
-  </a>
-  <a href="mailto:baraa.w.hajj@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=eBEo6FOQZ3v4&format=png&color=ffffff" width="27" style="border-radius:100%"/>
-  </a>
-  <a href="https://bdev-lb.vercel.app/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/?size=100&id=89777&format=png&color=47C0FF" width="27" style="border-radius:100%"/>
-  </a>
-</p>
+Feel  free to reach out to me on any of the following platforms:
+
+[![GitHub](https://img.icons8.com/?size=25&id=62856&format=png&color=ffffff)](https://github.com/baraa-elhajj)
+[![LinkedIn](https://img.icons8.com/?size=25&id=qNUNvR9aEWql&format=png&color=000000)](https://linkedin.com/in/baraa-elhajj)
+[![Email](https://img.icons8.com/?size=25&id=eBEo6FOQZ3v4&format=png&color=ffffff)](mailto:baraa.w.hajj@gmail.com)
+[![Portfolio](https://img.icons8.com/?size=25&id=89777&format=png&color=47C0FF)](https://bdev-lb.vercel.app/)
+
