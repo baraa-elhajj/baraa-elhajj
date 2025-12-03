@@ -39,7 +39,7 @@ Coming soon.. Stay tuned!
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=baraa-elhajj&color=0e75b6&style=flat)
 <br>
-| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baraa-elhajj&theme=github_dark) | [![GitHub Streak](https://streak-stats.demolab.com?user=baraa-elhajj&theme=dark)](https://git.io/streak-stats) |
+| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baraa-elhajj&theme=github_dark) | [![GitHub Streak](https://streak-stats.demolab.com/?user=baraa-elhajj&theme=dark)](https://git.io/streak-stats) |
 |-----------------|---------------|
 
 ## Reach Out
