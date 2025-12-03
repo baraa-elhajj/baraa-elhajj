@@ -12,9 +12,10 @@
     ⚡ JavaScript &nbsp;&nbsp;
     🌙 Next.js &nbsp;&nbsp;
     🌿 Node.js &nbsp;&nbsp;
-    🎨 TailwindCSS &nbsp;&nbsp;
+    🎨 Tailwind CSS &nbsp;&nbsp;
     🚀 Express.js &nbsp;&nbsp;
     💠 Chakra UI &nbsp;&nbsp;
+    🌸 Sera UI &nbsp;&nbsp;
     📄 HTML &nbsp;&nbsp;
     🎨 CSS &nbsp;&nbsp;
     🧭 Git &nbsp;&nbsp;
