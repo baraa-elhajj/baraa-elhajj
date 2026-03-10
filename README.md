@@ -49,5 +49,5 @@ Feel  free to reach out to me on any of the following platforms:
 [![GitHub](https://img.icons8.com/?size=25&id=62856&format=png&color=ffffff)](https://github.com/baraa-elhajj)
 [![LinkedIn](https://img.icons8.com/?size=25&id=qNUNvR9aEWql&format=png&color=000000)](https://linkedin.com/in/baraa-elhajj)
 [![Email](https://img.icons8.com/?size=25&id=eBEo6FOQZ3v4&format=png&color=ffffff)](mailto:baraa.w.hajj@gmail.com)
-[![Portfolio](https://img.icons8.com/?size=25&id=89777&format=png&color=47C0FF)](https://bdev-lb.vercel.app/)
+[![Portfolio](https://img.icons8.com/?size=25&id=89777&format=png&color=47C0FF)](https://baraa-elhajj.vercel.app/)
 
